@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # 🔨Technologies 
 ![](https://img.shields.io/badge/MongoDB-***-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ad51cf)
-![](https://img.shields.io/badge/ExpressJS-***-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ad51cf)
+![](https://img.shields.io/badge/Express.js-***-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ad51cf)
 ![](https://img.shields.io/badge/ReactJS-*-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ad51cf)
 ![](https://img.shields.io/badge/NodeJS-***-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ad51cf)
 
