@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshjp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🔨Technologies 
-![](https://img.shields.io/badge/MongoDB-***-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ad51cf)
+![](https://nodejs.org/static/images/logo.svg)
 ![](https://img.shields.io/badge/Express.js-***-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ad51cf)
 ![](https://img.shields.io/badge/Node.js-***-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ad51cf)
 
