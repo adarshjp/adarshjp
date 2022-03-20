@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 
 # 🔨Technologies 
 
-[<img align="left" alt="medium" src="https://nodejs.org/static/images/logo.svg?&style=for-the-badge&logo=medium&logoColor=white" />]
-![](https://img.shields.io/badge/Express.js-***-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ad51cf)
-![](https://img.shields.io/badge/Node.js-***-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ad51cf)
+[<img align="left" alt="medium" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
+
 
 
 
