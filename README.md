@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # 🔨Technologies 
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+[<img align="left" alt="medium" src="https://nodejs.org/static/images/logo.svg?&style=for-the-badge&logo=medium&logoColor=white" />]
 ![](https://img.shields.io/badge/Express.js-***-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ad51cf)
 ![](https://img.shields.io/badge/Node.js-***-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ad51cf)
 
